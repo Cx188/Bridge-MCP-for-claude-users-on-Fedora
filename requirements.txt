@@ -1,0 +1,4 @@
+# Python deps for the bridge. Installed straight into your user site-packages
+# (pip install --user) — no virtualenv. run.sh does this for you on first launch.
+mcp>=1.28
+uvicorn>=0.30
